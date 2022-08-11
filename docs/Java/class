@@ -2,6 +2,6 @@
 layout: default
 title: class
 parent: Java
-nav_order: 1
+nav_order: 2
 ---
-# 클래스 모델링
+#클래스 모델링
