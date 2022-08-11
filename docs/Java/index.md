@@ -1,6 +1,6 @@
 ---
 layout: default
-title: java
+title: Java
 nav_order: 3
 has_children: true
 ---
