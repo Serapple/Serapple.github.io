@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Today I learn
+title: TIL
 nav_order: 2
 has_children: true	
 permalink: /docs/TIL
