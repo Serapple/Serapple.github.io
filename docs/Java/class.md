@@ -5,7 +5,7 @@ parent: Java
 nav_order: 1
 ---
 
-<h1>클래스 모델링</h1>
+# 클래스 모델링
 
 {:.no_toc}
 
