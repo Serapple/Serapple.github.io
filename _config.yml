@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Serapple
-description: Serapple's blog
+title: Serapple's devlog
+description: Serapple's devlog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://serapple.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -65,8 +65,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/just-the-docs/just-the-docs"
+  "Serapple on GitHub":
+    - "/https://github.com/Serapple"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
