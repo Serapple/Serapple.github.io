@@ -66,7 +66,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Serapple on GitHub":
-    "/https://github.com/Serapple"
+    "//github.com/Serapple"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -77,6 +77,10 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 
 # Footer content
 # appears at the bottom of every page's main content
+# External navigation links
+nav_external_links:
+  - title: serapple on GitHub
+    url: https://github.com/serapple
 
 # Back to top link
 back_to_top: true
